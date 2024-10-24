@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About the project 
+Our AI-driven platform anticipates financial and insurance needs based on demographic patterns, delivering smarter, personalized solutions. We automate services like calls, messages, and WhatsApp assistance to provide timely support, while self-help groups and expert mentorship guide users toward informed decisions. Our unique rewards system encourages engagement and financial progress. Our website features user-friendly designs, detailed information on government schemes, and a structured rewards program. Data gathered from the website will further enhance our AI's predictive capabilities for an even more personalized experience.
 
 ## Getting Started
 
