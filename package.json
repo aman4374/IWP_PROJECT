@@ -1,0 +1,28 @@
+{
+  "name": "InfoSaathi",
+  "version": "1.0.0",
+  "description": "InfoSaathi Landing Page",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.0.3",
+    "@heroicons/react": "^2.1.3",
+    "express": "^4.20.0",
+    "next": "14.2.3",
+    "next-auth": "^4.24.8",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
